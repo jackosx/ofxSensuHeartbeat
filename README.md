@@ -1,4 +1,4 @@
-#ofxSensuHeartbeat
+# ofxSensuHeartbeat
 
 A simple addon to be used in conjunction with ofxSensu.
 
